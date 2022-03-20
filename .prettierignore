@@ -6,5 +6,8 @@
 .localdevserver
 .sfdx
 .vscode
-
+jsconfig.json
 coverage/
+
+# Exclude project config (edited by CI workflow)
+sfdx-project.json
