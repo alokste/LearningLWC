@@ -5,13 +5,15 @@
             "package": "DummyDreamHouse",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": true
+            "default": true,
+            "ancestorId": "04tB0000000cWwnIAE"
         }
     ],
     "namespace": "ebell",
     "sourceApiVersion": "54.0",
     "packageAliases": {
         "DummyDreamHouse": "0Ho5g0000008OekCAE",
-        "DummyDreamHouse@0.1.0-2": "04t5g000000tfMkAAI"
+        "DummyDreamHouse@0.1.0-2": "04t5g000000tfMkAAI",
+        "DummyDreamHouse@0.1.0-1-april2022_major_release": "04t5g000000tfPAAAY"
     }
 }
