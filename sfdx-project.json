@@ -5,8 +5,7 @@
             "package": "DummyDreamHouse",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
-            "default": true,
-            "ancestorId": "04tB0000000cWwnIAE"
+            "default": true            
         }
     ],
     "namespace": "ebell",
